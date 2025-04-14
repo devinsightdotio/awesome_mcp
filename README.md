@@ -6,6 +6,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 
 ### Official Resources
 - https://github.com/awslabs/mcp
+- https://github.com/modelcontextprotocol/modelcontextprotocol
 
 ### Development Tools & SDKs
 - https://github.com/f/mcptools
@@ -14,6 +15,11 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/automation-ai-labs/mcp-link
 - https://github.com/natsukium/mcp-servers-nix
 - https://github.com/machaojin1917939763/mcp-ui
+- https://github.com/mcp-use/mcp-use
+- https://github.com/jlowin/fastmcp
+- https://github.com/modelcontextprotocol/typescript-sdk
+- https://github.com/executeautomation/mcp-playwright
+- https://github.com/microsoft/playwright-mcp
 
 ### MCP Servers
 - https://github.com/jaw9c/awesome-remote-mcp-servers
@@ -25,6 +31,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/TuanKiri/weather-mcp-server
 - https://github.com/ZaUtre/sfcc-mcp-server
 - https://github.com/InterviewReady/mcp-server
+- https://github.com/modelcontextprotocol/servers
 
 ### Web & Site Integration
 - https://github.com/ryoppippi/sitemcp
@@ -66,6 +73,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/securityfortech/secops-mcp
 - https://github.com/Ta0ing/MCP-SecurityTools
 - https://github.com/atomicchonk/roadrecon_mcp_server
+- https://github.com/invariantlabs-ai/mcp-scan
 
 ### Productivity & Knowledge Management
 - https://github.com/apw124/logseq-mcp
