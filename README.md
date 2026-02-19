@@ -22,6 +22,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/microsoft/playwright-mcp
 
 ### MCP Servers
+- https://github.com/connerlambden/bgpt-mcp
 - https://github.com/jaw9c/awesome-remote-mcp-servers
 - https://github.com/Azure-Samples/remote-mcp-functions
 - https://github.com/stuzero/pg-mcp-server
