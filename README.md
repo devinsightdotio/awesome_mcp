@@ -54,6 +54,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/ai-1st/deepview-mcp
 - https://github.com/mediar-ai/MCP-server-client-computer-use-ai-sdk
 - https://github.com/teddynote-lab/langgraph-mcp-agents
+- https://github.com/runapi-ai/mcp
 
 ### Voice & Audio
 - https://github.com/elevenlabs/elevenlabs-mcp
