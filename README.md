@@ -31,6 +31,9 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/TuanKiri/weather-mcp-server
 - https://github.com/ZaUtre/sfcc-mcp-server
 - https://github.com/InterviewReady/mcp-server
+- https://github.com/Xquik-dev/x-twitter-scraper
+
+  Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 - https://github.com/modelcontextprotocol/servers
 
 ### Web & Site Integration
@@ -64,7 +67,6 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/InstaWP/mcp-wp
 
 ### Development Environments
-- https://github.com/Shopify/dev-mcp
 - https://github.com/Pitayafruits/spring-boot-mcp-demo
 
 ### Security & Penetration Testing
@@ -83,9 +85,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/egoist/shell-command-mcp
 - https://github.com/mikechambers/adb-mcp
 - https://github.com/Pleasurecruise/linux-do-mcp
-- https://github.com/moekiorg/active_mcp
 - https://github.com/shijianzhong/smart-pet-with-mcp
-- https://github.com/google-sheets-mcp
 
 ## Contributing
 Please feel free to submit a PR if you know of any resources that would be a good fit for this list!
