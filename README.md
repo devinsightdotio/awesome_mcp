@@ -23,6 +23,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 
 ### MCP Servers
 - https://github.com/jaw9c/awesome-remote-mcp-servers
+- https://github.com/process-street/process-street-mcp
 - https://github.com/Azure-Samples/remote-mcp-functions
 - https://github.com/stuzero/pg-mcp-server
 - https://github.com/acomagu/vscode-as-mcp-server
