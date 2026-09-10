@@ -32,6 +32,8 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/ZaUtre/sfcc-mcp-server
 - https://github.com/InterviewReady/mcp-server
 - https://github.com/modelcontextprotocol/servers
+- https://github.com/Orkas-AI/Orkas-VideoStudio
+
 
 ### Web & Site Integration
 - https://github.com/ryoppippi/sitemcp
