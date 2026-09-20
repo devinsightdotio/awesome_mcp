@@ -40,6 +40,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/open-webui/mcpo
 
 ### Database & Storage
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - https://github.com/coleam00/supabase-mcp
 
 ### Blockchain & Web3
