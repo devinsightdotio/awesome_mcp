@@ -43,6 +43,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/coleam00/supabase-mcp
 
 ### Blockchain & Web3
+- https://github.com/nuanu-ai/agent-payment-node
 - https://github.com/demcp/awesome-web3-mcp-servers
 - https://github.com/solanamcp/solana-mcp
 - https://github.com/Jordan-Mysten/sui-mcp
