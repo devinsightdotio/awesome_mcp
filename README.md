@@ -80,6 +80,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/Hypersequent/qasphere-mcp
 
 ### System Tools
+- https://github.com/seifip/kilobat-cli
 - https://github.com/egoist/shell-command-mcp
 - https://github.com/mikechambers/adb-mcp
 - https://github.com/Pleasurecruise/linux-do-mcp
