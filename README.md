@@ -76,6 +76,7 @@ A curated list of awesome MCP servers, tools, and resources for the Model Contex
 - https://github.com/invariantlabs-ai/mcp-scan
 
 ### Productivity & Knowledge Management
+- https://github.com/dash-pup/dash-mcp
 - https://github.com/apw124/logseq-mcp
 - https://github.com/Hypersequent/qasphere-mcp
 
